@@ -1,1 +1,1 @@
-# JSExercise
+# JS Weeked Exercise
