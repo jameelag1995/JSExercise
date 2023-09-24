@@ -14,7 +14,11 @@
 //     return sum;
 // }
 // 2nd Solution
-//  
+// function binaryToInt2(array) {
+//   let binaryToStr = array.join("");
+//   let result = parseInt(binaryToStr, 2);
+//   return result;
+// }
 /* ---------------------------------- Test ---------------------------------- */
 // console.log(binaryToInt([1,1,1,1]));
 // console.log(binaryToInt2([1,1,1,1]));
